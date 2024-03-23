@@ -1,4 +1,4 @@
-// send response to user as html 
+// routing basic program
 const http = require('http');
 const fs = require('fs')
 
