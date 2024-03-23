@@ -1,4 +1,4 @@
-// send response as html 
+// send response to user as html 
 const http = require('http');
 
 const server = http.createServer((req,res)=>{
